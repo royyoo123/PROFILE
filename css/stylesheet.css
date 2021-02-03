@@ -1,4 +1,4 @@
-/*img {
+img {
   width: 300px;
   height: 300px;
   align-content: center;
@@ -15,8 +15,8 @@ body {
 p {
   font-size: 20px;
   margin: 20px;
-}/*
-*/
+}
+
 a:hover {
   background-color: white;
   color: red;
@@ -38,7 +38,7 @@ h2 {
 }
 a {
   font-size: 40px;
-}*/
+}
 .card-white {
   width: 700px;
   margin: 40px auto;
