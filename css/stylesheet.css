@@ -18,7 +18,7 @@ p {
 }
 
 a:hover {
-  background-color: white;
+  
   color: red;
   margin: 5px auto;
   text-decoration: none;
@@ -45,6 +45,7 @@ a {
   background-color: white;
   padding: 40px;
   border-radius: 3px;
+  background-size: cover;
   background-image: url("../images/download.jfif");
   text-align: center;
   box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
